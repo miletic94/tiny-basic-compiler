@@ -1,0 +1,2 @@
+LABEL loop
+PRINT "Hi friend"
